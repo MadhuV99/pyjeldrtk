@@ -8,6 +8,6 @@ git remote add origin https://github.com/MadhuV99/pyjeldrtk.git
 git push -u origin main 
 
 git add -A 
-git commimt -m "Latest Commit" 
+git commit -m "Latest Commit" 
 git push shinjuLast1MM 
 
